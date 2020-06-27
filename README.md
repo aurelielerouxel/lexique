@@ -14,6 +14,8 @@ PHP - langage informatique utilisé pour la conception de site web dynamiques (f
 
 Javascript - langage informatique utilisé sur les pages web (à la particularité de s'activer sur un poste client).
 
+Ligne de commande - communication entre l'utilisateur et l'ordinateur en mode texte.
+
 2 - Définitions techniques
 
 Front-end - définit les interfaces des programmes et les services par rapport à l'utilisateur (qui peut être une personne ou un programme).
@@ -26,5 +28,12 @@ Serveur - dispositif informatique (matériel et logiciel) qui offre des services
 
 Intégration - phase d'un projet durant laquelle on vérifie (le produit) par des tests, c'est aussi le développement web côté client.
 
+3 - Gestion et stockage des données
+
+GitHub - service web d'hébergement et de gestion de développement de logiciels.
+
+Git - outil qui permet de créer un dépôt local et de gérer les versions de nos fichiers.
+
+Intégration - ensemble de procédés qui permettent de réunir des parties de solutions développées séparémment au sein d'un même système d'information.
 
 
