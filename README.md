@@ -1,30 +1,39 @@
-Lexique du vocabulaire web
+# Lexique du vocabulaire web
 
-Ce lexique est crée dans le cadre de ma formation "Développeur Web & Web mobile", il me servira de support tout au long de l'année et me permettra d'enrichir mon vocabulaire technique.
+***Ce lexique est crée dans le cadre de ma formation "Développeur Web & Web mobile", il me servira de support tout au long de l'année et me permettra d'enrichir mon vocabulaire technique.***
 
-Lexique
+## Lexique
 
-1 - Langage informatique
+### 1 - Langage informatique
 
-HTML - langage informatique utilisé sur internet pour créer des pages web.
+**HTML** - langage informatique utilisé sur internet pour créer des pages web.
 
-CSS - langage informatique qui permet de mettre en forme des pages web.
+**CSS** - langage informatique qui permet de mettre en forme des pages web.
 
-PHP - langage informatique utilisé pour la conception de site web dynamiques (fourni des informations aux utilisateurs en fonction de leurs navigations sur les sites internet).
+**PHP** - langage informatique utilisé pour la conception de site web dynamiques (fourni des informations aux utilisateurs en fonction de leurs navigations sur les sites internet).
 
-Javascript - langage informatique utilisé sur les pages web (à la particularité de s'activer sur un poste client).
+**Javascript** - langage informatique utilisé sur les pages web (à la particularité de s'activer sur un poste client).
 
-2 - Définitions techniques
+**Ligne de commande** - communication entre l'utilisateur et l'ordinateur en mode texte.
 
-Front-end - définit les interfaces des programmes et les services par rapport à l'utilisateur (qui peut être une personne ou un programme).
+### 2 - Définitions techniques
 
-Back-end - traitement des interactions et des données de l'utilisateur (consulte la base de données, analyse et sécurise les données) puis renvoi à l'utilisateur.
+**Front-end** - définit les interfaces des programmes et les services par rapport à l'utilisateur (qui peut être une personne ou un programme).
 
-Client - Serveur : dans un environnement client -serveur, le client fait office de front-end et le serveur de back-end.
+**Back-end** - traitement des interactions et des données de l'utilisateur (consulte la base de données, analyse et sécurise les données) puis renvoi à l'utilisateur.
 
-Serveur - dispositif informatique (matériel et logiciel) qui offre des services à un ou plusieurs clients.
+**Client** - Serveur_ : dans un environnement client -serveur, le client fait office de front-end et le serveur de back-end.
 
-Intégration - phase d'un projet durant laquelle on vérifie (le produit) par des tests, c'est aussi le développement web côté client.
+**Serveur** - dispositif informatique (matériel et logiciel) qui offre des services à un ou plusieurs clients.
 
+**Intégration** - phase d'un projet durant laquelle on vérifie (le produit) par des tests, c'est aussi le développement web côté client.
+
+### 3 - Gestion et stockage des données
+
+**GitHub** - service web d'hébergement et de gestion de développement de logiciels.
+
+**Git** - outil qui permet de créer un dépôt local et de gérer les versions de nos fichiers.
+
+**Intégration** - ensemble de procédés qui permettent de réunir des parties de solutions développées séparémment au sein d'un même système d'information.
 
 
